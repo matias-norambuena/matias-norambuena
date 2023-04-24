@@ -12,7 +12,7 @@ How to reach me? -> norambuena.ma@gmail.com
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" style="background-color:#c9d1d9"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" style="background-color:#c9d1d9"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="background-color:#c9d1d9"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" style="background-color:#c9d1d9"></code>
   <br />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="background-color:#c9d1d9"></code>
