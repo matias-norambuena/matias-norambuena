@@ -16,7 +16,7 @@ How to reach me? -> norambuena.ma@gmail.com
   <br />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="background-color:#c9d1d9"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" style="background-color:#c9d1d9"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="background-color:#c9d1d9"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" style="background-color:#c9d1d9"></code>
   <br />
  
